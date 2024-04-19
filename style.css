@@ -1,0 +1,22 @@
+button {
+  background-color: #225919; /* Mov */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 9px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+h1 {
+  color: #131313;
+  text-align: justify;
+  font-family: 'Rubik', sans-serif;
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: #fff;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
